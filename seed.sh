@@ -1,0 +1,1 @@
+psql ${DB} -a -f output/seed.sql

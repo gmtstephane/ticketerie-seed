@@ -1,0 +1,19 @@
+id,name,address,city,state,country,zipcode,latitude,longitude
+1,Stade Francis-Le Blé,26 Rue de Quimper,Brest,Brittany,France,29200,48.4085,-4.4869
+2,Stade Gabriel-Montpied,Rue Adrien Mabrut,Clermont-Ferrand,Auvergne,France,63100,45.7868,3.1276
+3,Stade Océane,Rue du Stade Océane,Le Havre,Normandy,France,76600,49.4874,0.1386
+4,Stade Bollaert-Delelis,Boulevard de Bollaert,Lens,Hauts-de-France,France,62300,50.4322,2.8275
+5,Stade Pierre-Mauroy,261 Boulevard de Tournai,Villeneuve-d'Ascq,Hauts-de-France,France,59650,50.6117,3.1305
+6,Stade du Moustoir,Rue du Tour des Portes,Lorient,Brittany,France,56100,47.7486,-3.3645
+7,Parc Olympique Lyonnais,10 Avenue Simone Veil,Décines-Charpieu,Auvergne-Rhône-Alpes,France,69150,45.7653,4.9818
+8,Stade Vélodrome,3 Boulevard Michelet,Marseille,Provence-Alpes-Côte d'Azur,France,13008,43.2698,5.3965
+9,Stade Saint-Symphorien,3 Boulevard Saint-Symphorien,Metz,Grand Est,France,57050,49.1073,6.1844
+10,Stade Louis II,7 Avenue des Castelans,Monaco,Monaco,Monaco,98000,43.7276,7.4154
+11,Stade de la Mosson,345 Avenue de Heidelberg,Montpellier,Occitanie,France,34080,43.6222,3.8132
+12,Stade de la Beaujoire,Route de Saint-Joseph,Nantes,Pays de la Loire,France,44300,47.2562,-1.5256
+13,Allianz Riviera,Boulevard des Jardiniers,Nice,Provence-Alpes-Côte d'Azur,France,6200,43.7045,7.1926
+14,Parc des Princes,24 Rue du Commandant Guilbaud,Paris,Île-de-France,France,75016,48.8414,2.2522
+15,Stade Auguste-Delaune,33 Chaussée Bocquaine,Reims,Grand Est,France,51100,49.2474,4.0251
+16,Roazhon Park,111 Route de Lorient,Rennes,Brittany,France,35000,48.1076,-1.6743
+17,Stade de la Meinau,12 Rue de l'Extenwoerth,Strasbourg,Grand Est,France,67100,48.5596,7.7521
+18,Stadium de Toulouse,1 Allée Gabriel Biénès,Toulouse,Occitanie,France,31400,43.5833,1.4341
